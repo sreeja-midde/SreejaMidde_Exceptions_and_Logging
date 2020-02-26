@@ -1,0 +1,13 @@
+2020-02-26 07:05:44 INFO  ClientApplication:9 - In Client Application
+2020-02-26 07:05:44 DEBUG ClientApplication:17 - 
+Enter cost of the house :
+2020-02-26 07:05:58 DEBUG ClientApplication:19 - 
+Enter the material standard [ Standard || aboveStandard || highStandard ] :
+2020-02-26 07:06:15 DEBUG ClientApplication:21 - 
+Enter if it fully automated [y/n] :
+2020-02-26 07:06:20 INFO  CostCalculation:24 - In getCost method
+2020-02-26 07:06:20 INFO  CostCalculation:7 - In returnCost method
+2020-02-26 07:06:20 DEBUG ClientApplication:26 - 
+Estimated house construction cost :1800000.0
+2020-02-26 07:06:20 DEBUG ClientApplication:27 - 
+Press stop to exit or anything to continue : 

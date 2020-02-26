@@ -1,0 +1,10 @@
+2020-02-26 07:22:21 DEBUG ClientApplication:15 - 
+Enter Principle Amount,rate of interest, time period : 
+2020-02-26 07:23:19 DEBUG ClientApplication:19 - 
+1.Simple Interest
+2.Compound Interest
+Enter the choice : 
+2020-02-26 07:23:24 DEBUG ClientApplication:30 - 
+Interest = 129.6
+2020-02-26 07:23:24 DEBUG ClientApplication:31 - 
+press 'stop' to exit or anything to continue : 
